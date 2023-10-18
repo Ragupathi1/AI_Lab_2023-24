@@ -50,6 +50,7 @@ problem(blank_display).
 
 
 ### Output:
+![Uploading image.png…]()
 
 
 
